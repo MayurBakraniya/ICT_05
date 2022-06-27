@@ -1,0 +1,16 @@
+F:\ICT_05\DesktopApplication\DesktopApplication\bin\Debug\Database.mdf
+F:\ICT_05\DesktopApplication\DesktopApplication\bin\Debug\Database_log.ldf
+F:\ICT_05\DesktopApplication\DesktopApplication\bin\Debug\DesktopApplication.exe.config
+F:\ICT_05\DesktopApplication\DesktopApplication\bin\Debug\DesktopApplication.exe
+F:\ICT_05\DesktopApplication\DesktopApplication\bin\Debug\DesktopApplication.pdb
+F:\ICT_05\DesktopApplication\DesktopApplication\bin\Debug\EntityFramework.dll
+F:\ICT_05\DesktopApplication\DesktopApplication\bin\Debug\EntityFramework.SqlServer.dll
+F:\ICT_05\DesktopApplication\DesktopApplication\bin\Debug\EntityFramework.xml
+F:\ICT_05\DesktopApplication\DesktopApplication\bin\Debug\EntityFramework.SqlServer.xml
+F:\ICT_05\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Form1.resources
+F:\ICT_05\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Properties.Resources.resources
+F:\ICT_05\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.csproj.GenerateResource.cache
+F:\ICT_05\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.csproj.CoreCompileInputs.cache
+F:\ICT_05\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.csproj.CopyComplete
+F:\ICT_05\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.exe
+F:\ICT_05\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.pdb
